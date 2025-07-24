@@ -1,1 +1,1 @@
-This section showcases my various techinical and organizational skills along with knowledge of all core concepts of Cybersecurity domain.
+This section showcases my various technical and Transferable skills, along with knowledge of all core concepts in the cybersecurity domain.
