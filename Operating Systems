@@ -2,5 +2,12 @@ Linux (Ubuntu/CentOS): file systems, permissions, scripting (bash)
 
 Windows: Active Directory basics, CMD/PowerShell commands
 
-General CLI commands for enumeration, networking, and system configuration
+Command Line & Scripting Languages:
+Linux Command Line (Bash)
+Windows Command Line (CMD)
+PowerShell (Basics)
+Python (Intro for automation & scripting)
+JavaScript (Intro to web exploits like XSS)
+SQL (Basic for SQL injection)
+HTML/CSS (for web basics)
 
