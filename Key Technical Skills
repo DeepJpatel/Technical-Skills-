@@ -1,25 +1,15 @@
-Reconnaissance (Passive & Active)
+Network Fundamentals: Switches, routing, subnetting, ARP, DHCP, OSI & TCP/IP Model, TCP handshake, UDP, IP protocols, ports, port forwarding, firewalls, VPNs, secure protocols (HTTPS, SSH, VPNs), plus Wireshark, Tcpdump, Nmap.
 
-Scanning and Enumeration
+How the Web Works: DNS, HTTP,  HTML, JavaScript basics, injection concepts, web operations.
 
-Vulnerability Identification
+Linux Fundamentals: Linux commands, filesystem, operators, files, flags/switches, permissions, user management, process handling, directories; includes SSH machine, text editors, processes, automation, package management, logs.
 
-Exploitation Basics
+Windows Fundamentals: Windows basics, Active Directory (users/groups/OUs), PowerShell, command line, file systems, permissions, system configurations, UAC, Computer Management, command prompts, registry.
 
-Privilege Escalation (Linux & Windows)
+Cryptography: Encryption basics (symmetric/asymmetric), hashing, and using John the Ripper.
 
-Basic Scripting (Bash & Python)
+Exploitation Basics: Real-world CVE example, Metasploit modules, Meterpreter usage, EternalBlue exploit.
 
-File Permissions and Access Control
+Defensive Security: Defensive mindset, SOC fundamentals, vulnerability identification, digital forensics, incident response, log analysis, Tools including CyberChef, CAPA, REMnux, FlareVM essentials.
 
-Web App Basics (HTML, JS, Forms)
-
-Login Bypass Techniques
-
-Password Cracking
-
-Forensics Introduction
-
-Steganography
-
-Malware Analysis Intro
+Security Solutions: SIEM, firewalls, IDS, vulnerability scanners
