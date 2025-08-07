@@ -1,0 +1,43 @@
+CIA Triad (Confidentiality, Integrity, Availability)
+
+Threats, Vulnerabilities, and Risks
+
+Authentication & access control, including MFA, password policies, principle of least privilege
+
+Security Models (Zero Trust, Defense in Depth)
+
+Common Attack Vectors
+
+Penetration Testing Basics
+
+Cyber Kill Chain
+
+MITRE ATT&CK Framework
+
+Social Engineering
+
+Basics of TCP/IP & OSI models, ports, services, packet analysis
+
+Vulnerability management and multi‑vector polymorphic attacks
+
+Ports and Protocols (HTTP, HTTPS, FTP, DNS, SSH, etc.)
+
+Encryption Basics (Symmetric vs Asymmetric) & Hashing (SHA, MD5, etc.)
+
+Firewalls & VPNs
+
+Reconnaissance, enumeration, and exploitation basics
+
+Defensive tools like firewalls, IDS/IPS, endpoint detection (EDR/XDR), SIEM, threat detection & response
+
+Authentication vs Authorization
+
+Phishing, Malware, Ransomware, Trojans
+
+DNS Poisoning & Spoofing
+
+Basic Network Sniffing
+
+Incident response lifecycle and recovery planning
+
+Risk assessment and management techniques 
