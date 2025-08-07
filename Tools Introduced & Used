@@ -1,0 +1,27 @@
+Wireshark – network protocol analyzer
+
+Nmap – network scanning & enumeration
+
+Metasploit Framework – exploit development
+
+Burp Suite – web application testing
+
+Nikto – web vulnerability scanner
+
+Netcat – network debugging
+
+Hydra – brute-force tool
+
+John the Ripper – password cracker
+
+Hashcat – GPU password cracker
+
+Gobuster / Dirb – directory brute-forcing
+
+whois, dig, nslookup – DNS recon tools
+
+Tcpdump – packet analyzer
+
+Traceroute & Ping – network diagnostics
+
+Shodan – IoT search engine
