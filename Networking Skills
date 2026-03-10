@@ -1,0 +1,31 @@
+
+Core Networking
+- OSI Model (All 7 Layers)
+- TCP/IP Protocol Suite
+- IP Addressing & Subnetting (IPv4/IPv6)
+- DNS — Configuration, Troubleshooting, DNS Poisoning Awareness
+- DHCP — Setup, Scope Management, Troubleshooting
+- NAT & Port Forwarding
+- Routing & Switching Fundamentals
+- ARP & MAC Address Management
+- VLANs & Network Segmentation
+- WAN Concepts & Topologies
+
+Protocols & Services
+- HTTP / HTTPS / SSL / TLS
+- SSH & Secure Remote Access
+- FTP / SFTP
+- SMTP / IMAP / POP3 (Email Protocols)
+- RDP (Remote Desktop Protocol)
+- SMB / Samba (File Sharing)
+- ICMP / Ping / Traceroute
+
+Network Tools
+| Tool | Use Case |
+
+| Wireshark | Packet capture, traffic analysis, anomaly detection |
+| Tcpdump | CLI-based packet capture & filtering |
+| Nmap | Port scanning, host discovery, service enumeration |
+| Netstat | Active connections & port monitoring |
+| ipconfig / ifconfig | Network interface diagnostics |
+| ping / tracert | Connectivity & latency troubleshooting |
