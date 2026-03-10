@@ -1,0 +1,34 @@
+ Deep Patel — Full Skills Repository
+> A comprehensive breakdown of all technical, transferable, and professional skills
+> built through 3+ years of self-directed learning, hands-on labs, and real-world experience.
+
+ Operating Systems
+
+ Windows
+| OS | Experience Level | Context |
+
+| Windows 11 | Advanced | Daily use, security configuration, hardening |
+| Windows 10 | Advanced | IT support, troubleshooting, endpoint management |
+| Windows Server 2016 | Intermediate | Active Directory, DNS, DHCP, Group Policy |
+| Windows Server 2019 | Intermediate | Home lab, AD DS, user & group management |
+
+Linux
+| Distro | Experience Level | Context |
+
+| Kali Linux | Intermediate | Penetration testing, security tooling, CTF labs |
+| Parrot OS | Beginner | Security analysis, anonymity tools, ethical hacking |
+| Ubuntu | Intermediate | Server administration, scripting, lab environments |
+| Ubuntu + Samba 4 | Beginner | File sharing, domain controller simulation, AD integration |
+| Fedora | Beginner | Linux fundamentals, package management, system config |
+| CentOS | Beginner–Intermediate | Server environments, system administration basics |
+
+macOS
+| OS | Experience Level | Context |
+
+| macOS (Multiple Versions) | Intermediate | End-user support, troubleshooting, system preferences |
+
+Virtualization
+| Tool | Experience Level | Context |
+
+| VirtualBox | Advanced | Multi-OS lab environments, snapshots, network config |
+| Virtual Machines (General) | Advanced | Isolated test environments, malware analysis sandboxes |
