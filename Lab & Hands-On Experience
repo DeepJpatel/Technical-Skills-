@@ -1,0 +1,14 @@
+
+| Lab / Project | Tools Used | Skills Demonstrated |
+
+| SOC Home Lab | Windows Server, Splunk, Kali Linux | SIEM, alert triage, threat detection |
+| Active Directory Lab | Windows Server 2019, AD DS | User mgmt, GPOs, OUs, RBAC |
+| Multi-OS Lab | VirtualBox, Kali, Parrot, Ubuntu | OS config, hardening, pen testing |
+| Network Traffic Analysis | Wireshark, Tcpdump, Nmap | Packet analysis, IOC identification |
+| Phishing Analysis | Email headers, VirusTotal | Threat intel, IOC extraction |
+| IR Simulation | NIST IR Framework | Incident response lifecycle |
+| Mastercard Sim | Forage Platform | Phishing TTPs, security awareness |
+| Commonwealth Bank Sim | Forage Platform | Full IR cycle, containment |
+| PwC Switzerland Sim | Forage Platform | Risk assessment, firewall config |
+
+
