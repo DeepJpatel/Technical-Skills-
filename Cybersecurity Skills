@@ -1,0 +1,68 @@
+
+ Security Operations (SOC)
+- Security Event Monitoring & Alert Triage
+- SIEM Administration & Log Analysis (Splunk)
+- Threat Detection & Threat Hunting
+- Indicator of Compromise (IOC) Identification
+- False Positive / True Positive Classification
+- SOC Runbook & Playbook Execution
+- Escalation Workflows (Tier 1 → Tier 2)
+- Security Incident Documentation & Reporting
+
+Incident Response
+- NIST Incident Response Lifecycle (Prepare → Detect → Contain → Eradicate → Recover)
+- Phishing Incident Response
+- Account Compromise Response
+- Malware Awareness & Containment Concepts
+- Evidence Collection & Chain of Custody Awareness
+- Post-Incident Review & Lessons Learned
+
+Threat Intelligence & Analysis
+- Phishing Email Analysis (Headers, Links, Attachments)
+- Malware Awareness & Basic Behavior Analysis
+- MITRE ATT&CK Framework (TTPs Mapping)
+- Cyber Kill Chain Analysis
+- IOC Research & Documentation
+- VirusTotal & Threat Intel Lookups
+
+Vulnerability Management
+- Vulnerability Assessment & Scanning Concepts
+- Risk Identification & Prioritization
+- Patch Management Awareness
+- CVE Research & Documentation
+
+Network Security
+- Firewall Rule Configuration & Management
+- VPN Setup & Access Control
+- Network Access Control (ACL / RBAC)
+- Network Segmentation & VLAN Configuration
+- Intrusion Detection & Prevention (IDS/IPS)
+- Packet Capture & Traffic Analysis (Wireshark, Tcpdump)
+- Port Scanning & Enumeration (Nmap)
+- Suspicious Traffic Identification
+
+Endpoint Security
+- Endpoint Detection & Response (EDR/XDR) Concepts
+- Antivirus & Malware Removal
+- Endpoint Hardening & Security Baselines
+- USB & Removable Media Controls
+
+Cryptography
+- Symmetric & Asymmetric Encryption
+- Hashing Algorithms (MD5, SHA-1, SHA-256)
+- PKI & Certificate Basics
+- Password Cracking Concepts (John the Ripper)
+- SSL/TLS Fundamentals
+
+Security Frameworks & Standards
+| Framework | Application |
+
+| MITRE ATT&CK | TTP mapping, threat hunting, detection logic |
+| NIST CSF | Risk management, incident response lifecycle |
+| Cyber Kill Chain | Attack phase identification & defense mapping |
+| Zero Trust | Access control design, least-privilege enforcement |
+| Defense in Depth | Layered security architecture concepts |
+| CIA Triad | Security policy design & risk assessment |
+| CIS Controls | Security baseline awareness |
+
+> *"Skills are built, not born."* 🚀
